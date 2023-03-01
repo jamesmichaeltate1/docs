@@ -2,7 +2,7 @@
 title: Search
 hidden: true
 versions:
-  fpt: '*'
+  fpt: '*'bugfix
   ghec: '*'
   ghes: '*'
   ghae: '*'
